@@ -17,8 +17,8 @@ Todos as informações passadas entre componentes são feitas através de props,
 
 ### Mídias
 
-<div style="display: flex; justify-content: center;">
-<img width="310px" alt="machine-todo-list" src="../front-todolist-react/public/assets/machine-todo-list.png"/>
+<div style="display: flex; justify-content: center">
+<img width="310px" alt="machine-todo-list" src="https://github.com/david-anderson789/front-todolist-react/blob/master/public/assets/machine-todo-list.png"/>
 </div>
 <div style="
 display: flex;
@@ -26,8 +26,8 @@ flex-direction: column;
 align-items: center;
 justify-content: center;
 margin-top: 5px">
-  <img style="" width="810px" alt="machine-todo-list" src="../front-todolist-react/public/assets/tela 01.png"/>
-  <img style="margin-top: 5px" width="810px"  alt="machine-todo-list" src="../front-todolist-react/public/assets/tela 02.png"/>
-  <img style="margin-top: 5px" width="810px"  alt="machine-todo-list" src="../front-todolist-react/public/assets/tela 03.gif"/>
+  <img style="" width="810px" alt="machine-todo-list" src="https://github.com/david-anderson789/front-todolist-react/blob/master/public/assets/tela%2001.png"/>
+  <img style="margin-top: 5px" width="810px"  alt="machine-todo-list" src="https://github.com/david-anderson789/front-todolist-react/blob/master/public/assets/tela%2002.png"/>
+  <img style="margin-top: 5px" width="810px"  alt="machine-todo-list" src="https://github.com/david-anderson789/front-todolist-react/blob/master/public/assets/tela%2003.gif"/>
 </div>
 
